@@ -33,6 +33,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Elearning | Linuxfoundation.org | N/A | 11/23 | N/A |
 | Elearning | Educative.io | Discounted $249 annual plan | 11/25 | [link](educative.io/) |
 | Elearning | Cloudacademy.com | $229 for 1 year ($120 off) | 11/25 | [link](https://cloudacademy.com/black-friday/) |
+| Elearning | Chris Sanders | Details released Friday morning | 11/28 | [link](https://chrissanders.org/training/) |
 | | | | | |
 | Pen Testing | Hacker.house | N/A | 11/23 | N/A |
 | Pen Testing | Pentesterlab.com | 2x13.37% off  | 11/25 | [link](https://pentesterlab.com/pro) |
